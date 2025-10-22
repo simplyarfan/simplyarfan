@@ -9,6 +9,18 @@
   <em>Currently building in-house AI products, exploring all things automation, scalability, and design</em>
 </p>
 
+<p align="center">
+  <a href="https://instagram.com/simplyarfan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/syedarfan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/simplyarfan">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### ✮ About Me
@@ -22,14 +34,14 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### 🌐 Socials
+### ♔ Socials
 [![Instagram](https://img.shields.io/badge/Instagram-simplyarfan-pink?style=flat-square&logo=instagram)](https://instagram.com/simplyarfan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Arfan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedarfan/)
 [![Discord](https://img.shields.io/badge/Discord-simplyarfan-5865F2?style=flat-square&logo=discord)](https://discord.com/users/simplyarfan)
 
 ---
 
-### 🧰 Tech Stack
+### ♦︎ Tech Stack
 
 | **Languages** | **Frameworks / Libraries** | **Cloud / Databases** | **Other Tools & Platforms** |
 |----------------|-----------------------------|------------------------|------------------------------|
@@ -38,11 +50,11 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 ---
 
 ### ✧ Interests
-- Robotics and embedded systems  
-- Cloud computing and scalable architecture  
-- Building AI systems that integrate with full-stack environments  
-- Experimenting with MLOps, prompt engineering, and self-hosted AI tools  
-- Always trying on something new — from automation bots to internal dashboards  
+➜ Robotics and embedded systems  
+➜ Cloud computing and scalable architecture  
+➜ Building AI systems that integrate with full-stack environments  
+➜ Experimenting with MLOps, prompt engineering, and self-hosted AI tools  
+➜ Always trying on something new — from automation bots to internal dashboards
 
 ---
 
@@ -59,10 +71,8 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 ---
 
 ### ☞ Current Focus
-> Currently building SecureMax’s internal AI platform — combining machine learning pipelines, scalable cloud deployment, and a modern web interface.  
-> Exploring robotics integrations and expanding AI services within enterprise systems.
-
----
+> ➜ Currently building SecureMax’s internal AI platform — combining machine learning pipelines, scalable cloud deployment, and a modern web interface.  
+> ➜ Exploring robotics integrations and expanding AI services within enterprise systems.
 
 ---
 
