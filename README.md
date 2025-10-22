@@ -2,7 +2,7 @@
   <img src="name.gif" alt="Syed Arfan Banner" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Syed Arfan</h1>
+<h1 align="center">♚ Hey, I'm Syed Arfan</h1>
 
 <p align="center">
   <em>AI/ML Engineer at SecureMax | Full-Stack Developer | Cloud & Robotics Enthusiast</em><br>
@@ -34,13 +34,6 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### ♔ Socials
-[![Instagram](https://img.shields.io/badge/Instagram-simplyarfan-pink?style=flat-square&logo=instagram)](https://instagram.com/simplyarfan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Arfan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedarfan/)
-[![Discord](https://img.shields.io/badge/Discord-simplyarfan-5865F2?style=flat-square&logo=discord)](https://discord.com/users/simplyarfan)
-
----
-
 ### ♦︎ Tech Stack
 
 | **Languages** | **Frameworks / Libraries** | **Cloud / Databases** | **Other Tools & Platforms** |
@@ -58,7 +51,7 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### 📈 GitHub Stats
+### ✥ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simplyarfan&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplyarfan&layout=compact&theme=radical" height="160"/>
@@ -76,19 +69,17 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### 🎵 Spotify Stats
+### ✧ My Spotify
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rtb5ne6ivtlgfk2dte67qmqyc&count=5&width=600&unique=true" alt="Recently Played Tracks" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rtb5ne6ivtlgfk2dte67qmqyc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing" width="500" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rtb5ne6ivtlgfk2dte67qmqyc&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rtb5ne6ivtlgfk2dte67qmqyc&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
 </p>
 
 ---
 
-### 🧩 Random Dev Quote
+### 🂠 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
