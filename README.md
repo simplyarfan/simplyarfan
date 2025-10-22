@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name.gif" alt="Syed Arfan Banner" />
+  <img src="name_banner.gif" alt="Syed Arfan Banner" />
 </p>
 
 <h1 align="center">♠︎ Hey, I'm Syed Arfan</h1>
