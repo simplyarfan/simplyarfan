@@ -2,7 +2,7 @@
   <img src="name.png" alt="Syed Arfan Banner" />
 </p>
 
-<h1 align="center">♠︎ Hey, I'm Syed Arfan</h1>
+<h1 align="center">✧ Hey, I'm Syed Arfan</h1>
 
 <p align="center">
   <em>AI/ML Engineer at SecureMax | Full-Stack Developer | Cloud & Robotics Enthusiast</em><br>
@@ -34,7 +34,7 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### ♦︎ Tech Stack
+### ✧ Tech Stack
 
 | **Languages** | **Frameworks / Libraries** | **Cloud / Databases** | **Other Tools & Platforms** |
 |----------------|-----------------------------|------------------------|------------------------------|
@@ -51,7 +51,7 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### ✥ GitHub Stats
+### ✧ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simplyarfan&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplyarfan&layout=compact&theme=radical" height="160"/>
