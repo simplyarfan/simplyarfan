@@ -88,7 +88,10 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/snake.svg" alt="GitHub Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/github-snake-dark.svg" />
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/github-snake.svg" width="700" />
+  </picture>
 </p>
 
 ---
