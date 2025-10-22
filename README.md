@@ -2,7 +2,7 @@
   <img src="name.png" alt="Syed Arfan Banner" />
 </p>
 
-<h1 align="center">✧ Hey, I'm Syed Arfan</h1>
+<h1 align="center">Hey, I'm Syed Arfan :p</h1>
 
 <p align="center">
   <em>AI/ML Engineer at SecureMax | Full-Stack Developer | Cloud & Robotics Enthusiast</em><br>
@@ -64,8 +64,8 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 ---
 
 ### ☞ Current Focus
-> ➜ Currently building SecureMax’s internal AI platform — combining machine learning pipelines, scalable cloud deployment, and a modern web interface.  
-> ➜ Exploring robotics integrations and expanding AI services within enterprise systems.
+➜ Currently building SecureMax’s internal AI platform — combining machine learning pipelines, scalable cloud deployment, and a modern web interface.  
+➜ Exploring robotics integrations and expanding AI services within enterprise systems.
 
 ---
 
