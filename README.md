@@ -2,7 +2,7 @@
   <img src="name.gif" alt="Syed Arfan Banner" />
 </p>
 
-<h1 align="center">♚ Hey, I'm Syed Arfan</h1>
+<h1 align="center">♠︎ Hey, I'm Syed Arfan</h1>
 
 <p align="center">
   <em>AI/ML Engineer at SecureMax | Full-Stack Developer | Cloud & Robotics Enthusiast</em><br>
@@ -23,7 +23,7 @@
 
 ---
 
-### ✮ About Me
+### ✧ About Me
 I build things that think. I’m an AI/ML Engineer at SecureMax Technologies, where I design and deploy smart systems that bridge machine learning, full-stack development, and cloud infrastructure. I graduated from the American University of Sharjah with a degree in Computer Engineering, and since then I’ve been obsessed with creating solutions that actually do something — from internal AI tools to full-scale automation pipelines.
 
 My work lives at the intersection of AI, cloud, and robotics. I spend most of my time experimenting with new frameworks, integrating tools like ChatGPT, Claude, Gemini, and Mistral, and constantly refining how systems learn, scale, and interact. Along the way, I’ve built and deployed everything from data-driven dashboards to cloud-hosted recommendation models and self-learning prototypes.
@@ -69,7 +69,7 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### ✧ My Spotify
+### ✧ What Am I Listening To?
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rtb5ne6ivtlgfk2dte67qmqyc&redirect=true">
