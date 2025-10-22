@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name.png" alt="Syed Arfan Banner" />
+  <img src="name.gif" alt="Syed Arfan Banner" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Syed Arfan</h1>
@@ -11,14 +11,14 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Graduated from **American University of Sharjah**
-- 💼 Working as an **AI/ML Engineer at SecureMax Technologies**
-- ☁️ Passionate about **AI, Cloud Infrastructure, and Robotics**
-- 🧠 Exploring and integrating tools like **ChatGPT, Claude, Gemini, and Mistral**
-- 💻 Constantly experimenting with **modern web stacks** and **in-house app systems**
-- 🌱 Always learning new frameworks, automations, and cloud solutions  
-- 🎮 Occasionally dive into gaming and robotics tinkering for fun
+### ✮ About Me
+I build things that think. I’m an AI/ML Engineer at SecureMax Technologies, where I design and deploy smart systems that bridge machine learning, full-stack development, and cloud infrastructure. I graduated from the American University of Sharjah with a degree in Computer Engineering, and since then I’ve been obsessed with creating solutions that actually do something — from internal AI tools to full-scale automation pipelines.
+
+My work lives at the intersection of AI, cloud, and robotics. I spend most of my time experimenting with new frameworks, integrating tools like ChatGPT, Claude, Gemini, and Mistral, and constantly refining how systems learn, scale, and interact. Along the way, I’ve built and deployed everything from data-driven dashboards to cloud-hosted recommendation models and self-learning prototypes.
+
+When I’m not knee-deep in code, you’ll usually find me building side projects for fun, customizing setups on Vercel or Azure, or breaking and fixing my own deployments just to understand them better.
+
+Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty good at them).
 
 ---
 
@@ -37,12 +37,12 @@
 
 ---
 
-### 🧠 Interests
-- 🤖 Robotics and embedded systems  
-- ☁️ Cloud computing and scalable architecture  
-- 🧩 Building AI systems that integrate with full-stack environments  
-- 🧪 Experimenting with MLOps, prompt engineering, and self-hosted AI tools  
-- ⚙️ Always hacking on something new — from automation bots to internal dashboards  
+### ✧ Interests
+- Robotics and embedded systems  
+- Cloud computing and scalable architecture  
+- Building AI systems that integrate with full-stack environments  
+- Experimenting with MLOps, prompt engineering, and self-hosted AI tools  
+- Always trying on something new — from automation bots to internal dashboards  
 
 ---
 
@@ -58,9 +58,23 @@
 
 ---
 
-### 🎯 Current Focus
+### ☞ Current Focus
 > Currently building SecureMax’s internal AI platform — combining machine learning pipelines, scalable cloud deployment, and a modern web interface.  
 > Exploring robotics integrations and expanding AI services within enterprise systems.
+
+---
+
+---
+
+### 🎵 Spotify Stats
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rtb5ne6ivtlgfk2dte67qmqyc&count=5&width=600&unique=true" alt="Recently Played Tracks" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rtb5ne6ivtlgfk2dte67qmqyc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing" width="500" />
+</p>
 
 ---
 
