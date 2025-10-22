@@ -79,19 +79,9 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 
 ---
 
-### 🂠 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/github-snake-dark.svg" />
     <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/github-snake.svg" width="700" />
   </picture>
 </p>
-
----
