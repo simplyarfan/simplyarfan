@@ -84,3 +84,11 @@ Outside of work, I enjoy exploring new tech and gaming competitively (I'm pretty
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simplyarfan/simplyarfan/output/snake.svg" alt="GitHub Snake Game" />
+</p>
+
+---
